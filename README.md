@@ -13,7 +13,7 @@ I am an engineering aspirant in computer sciences with a deep interest in learni
   <li>⚡ I like to solve real-world problems with my skills by building great products</li>
   <li>🔭 I’m currently preparing for placements</li>
   <li>🌱 I like to explore working on different products</li>
-  <li>Linkedin Profile: <a href="www.linkedin.com/in/lokesh-sharma-105165282"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white" title="Linkedin" alt="Linkedin" /></a></li>
+  <li>Linkedin Profile:&nbsp;<a href="https://www.linkedin.com/in/lokesh-sharma-105165282"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white" title="Linkedin" alt="Linkedin" /></a></li>
 </ul>
 <br/><br/><br/>
 <p>
